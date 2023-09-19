@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🐱‍👤 Sobre mim:
 🐱‍👓 Olá, me chamo Maxwell Dantas, seja bem vindo(a);<br>🐱‍💻 Sou estudante em Redes de Computadores pelo IFRN;<br>🐍 Estou estudando programação com ênfase no back-end; <br>🐱‍🐉 Estou a procura de estágio para aprender e aperfeiçoar meus conhecimentos.<br> 
 
 
